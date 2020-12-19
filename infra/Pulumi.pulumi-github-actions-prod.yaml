@@ -1,0 +1,4 @@
+encryptionsalt: v1:UowOcx0OT+8=:v1:wJ9Yz/HUaaPqFKLs:Jp+HLA4ulTgO3etzcvXSuwideeO4BQ==
+config:
+  aws:profile: pasmen
+  aws:region: eu-central-1
