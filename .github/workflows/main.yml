@@ -19,3 +19,4 @@ jobs:
           AWS_REGION: eu-central-1
           PULUMI_ROOT: infra
           PULUMI_BACKEND_URL: s3://pulumi.linhart.tech
+          PULUMI_CONFIG_PASSPHRASE: ${{ secrets.PULUMI_CONFIG_PASSPHRASE }}
