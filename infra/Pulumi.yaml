@@ -1,6 +1,4 @@
 name: pulumi-github-actions
 runtime:
   name: python
-  options:
-    virtualenv: venv
 description: Deploy static website to AWS S3 using Pulumi and GitHub Actions
