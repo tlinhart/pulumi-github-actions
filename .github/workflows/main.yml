@@ -28,7 +28,7 @@ jobs:
       - uses: pulumi/actions@v2
         with:
           command: up
-          stack-name: pulumi-github-actions-prod
+          stack-name: prod
           work-dir: infra
           cloud-url: s3://pulumi.linhart.tech
         env:

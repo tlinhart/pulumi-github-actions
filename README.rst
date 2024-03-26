@@ -11,7 +11,7 @@ Provide these values:
 
 - *project name*: pulumi-github-actions
 - *project description*: Deploy static website to AWS S3 using Pulumi and GitHub Actions
-- *stack name*: pulumi-github-actions-prod
+- *stack name*: prod
 - *passphrase*: <secret-passphrase>
 - *aws:region*: eu-central-1
 
